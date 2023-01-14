@@ -1,8 +1,9 @@
-# DISTANCE-BETWEEN-TWO-POINTS
+## DISTANCE-BETWEEN-TWO-POINTS
 
-AIM:
-```To write a python program to find the distance two 2 points
-ALGORITHM:
+## AIM:
+To write a python program to find the distance two 2 points
+## ALGORITHM:
+```
 Step 1:
 Get 4 inputs from the user.
 Step 2: 
@@ -14,7 +15,7 @@ Substitute the values in the distance formula formula
 Step 5: 
 Display the out using format function.
 ```
-PROGRAM:
+## PROGRAM:
 ```
 #Program to circulate N values.
 #Developed by: SRINIDHI SENTHIL
@@ -24,9 +25,9 @@ x1,x2,y1,y2=10,4,6,2
 dist=math.sqrt((x2-x1)**2+(y2-y1)**2)
 print("{:.2f}".format(dist))
 ```
-Output:
+## Output:
 ![image](https://user-images.githubusercontent.com/121373170/211162663-2f666b98-fee1-4a79-98b7-ba430e49dad3.png)
 
 
-RESULT:
+## RESULT:
 The above program is verified and created successfully
